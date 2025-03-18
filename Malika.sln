@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Malika", "Malika\Malika.csproj", "{AF111497-330A-4193-B62A-9DB2BDF42C08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Malika.Infrastructure", "Malika.Infrastructure\Malika.Infrastructure.csproj", "{5EDDFEEF-12F6-408C-91B7-5E982CCEA314}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF111497-330A-4193-B62A-9DB2BDF42C08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF111497-330A-4193-B62A-9DB2BDF42C08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF111497-330A-4193-B62A-9DB2BDF42C08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF111497-330A-4193-B62A-9DB2BDF42C08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EDDFEEF-12F6-408C-91B7-5E982CCEA314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EDDFEEF-12F6-408C-91B7-5E982CCEA314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EDDFEEF-12F6-408C-91B7-5E982CCEA314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EDDFEEF-12F6-408C-91B7-5E982CCEA314}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEBB8456-288C-4DEA-9C99-348C4B7AF50C}
+	EndGlobalSection
+EndGlobal

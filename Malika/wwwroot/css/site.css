@@ -20,3 +20,9 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.myNavBar {
+    background-color: #258cfb;
+    display: block;
+    
+}
